@@ -27,7 +27,7 @@ const PendidikanN = () => {
         >
           <div className="absolute w-4 h-4 bg-indigo-400 rounded-full -left-[9px] top-1 group-hover:bg-indigo-100 transition-colors shadow-lg" />
           <h3 className="text-lg font-bold text-indigo-100 mb-1">
-            スラバヤ国立電子工科大学
+            Electronic Engineering Polytechnic Institute of Surabaya
           </h3>
           <p className="text-indigo-300 mb-2 italic">情報工学部卒業証書</p>
           <p className="text-sm text-indigo-200/80 bg-indigo-900/30 px-3 py-1 rounded-full inline-block">
