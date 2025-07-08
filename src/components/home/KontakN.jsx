@@ -53,7 +53,8 @@ const KontakN = () => {
             href="tel:+6285156698423"
             className="hover:text-green-400 transition-colors"
           >
-            (+62) 851-5669-8423
+            Whatsapp : (+62) 851-5669-8423 (Id)
+            電話番号　： (+81) 70-9231-6232 (Jp)
           </a>
         </div>
 
@@ -78,7 +79,8 @@ const KontakN = () => {
               d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
             />
           </svg>
-          <span>インドネシア、ブリタル</span>
+          <span>ホーム　：　インドネシア、東ジャワ、ブリタル</span>
+          <span>現在住所　：　福岡県北九州市八幡西区</span>
         </div>
       </div>
     </div>
