@@ -79,8 +79,8 @@ const Kontak = () => {
               d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
             />
           </svg>
-          <span>From : Blitar, Jawa Timur</span>
-          <span>Live : Kitakyushu, Fukuoka</span>
+          From : Blitar, Jawa Timur
+          Live : Kitakyushu, Fukuoka
         </div>
       </div>
     </div>
