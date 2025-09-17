@@ -47,7 +47,7 @@ const PendidikanN = () => {
           </h3>
           <p className="text-indigo-300 mb-2 italic">日本語と日本文化のトレーニング</p>
           <p className="text-sm text-indigo-200/80 bg-indigo-900/30 px-3 py-1 rounded-full inline-block">
-            2017年7月 - 2017年10月
+            2017年6月 - 2017年10月
           </p>
         </motion.div>
         <motion.div
@@ -62,7 +62,7 @@ const PendidikanN = () => {
           </h3>
           <p className="text-indigo-300 mb-2 italic">日本語コース</p>
           <p className="text-sm text-indigo-200/80 bg-indigo-900/30 px-3 py-1 rounded-full inline-block">
-            2016年1月 - 2017年5月
+            2016年12月 - 2017年5月
           </p>
         </motion.div>
 
