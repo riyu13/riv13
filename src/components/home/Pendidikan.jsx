@@ -47,7 +47,7 @@ const Pendidikan = () => {
           </h3>
           <p className="text-indigo-300 mb-2 italic">Pelatihan Bahasa dan Budaya Jepang</p>
           <p className="text-sm text-indigo-200/80 bg-indigo-900/30 px-3 py-1 rounded-full inline-block">
-            Juli 2017 - Oktober 2017 
+            Juni 2017 - Oktober 2017 
           </p>
         </motion.div>
         <motion.div
@@ -62,7 +62,7 @@ const Pendidikan = () => {
           </h3>
           <p className="text-indigo-300 mb-2 italic">Kursus Bahasa Jepang</p>
           <p className="text-sm text-indigo-200/80 bg-indigo-900/30 px-3 py-1 rounded-full inline-block">
-            Januari 2016 - Mei 2017 
+            Desember 2016 - Mei 2017 
           </p>
         </motion.div>
 
