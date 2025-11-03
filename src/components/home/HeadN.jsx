@@ -20,7 +20,7 @@ const HeadN = () => {
       <div className="text-center">
         <img className="mx-auto w-32 h-32 rounded-full" src={me} alt="Profile" />
         <h4 className="flex flex-row mt-2 text-xl font-bold text-align-center justify-center">ギランフィルザリファンか</h4>
-        <h4 className="flex flex-row mt-2 text-xl text-blue-400">フルスタック開発者 | 人事 | 労働安全衛生 | 日本語の先生</h4>
+        <h4 className="flex flex-row mt-2 text-xl text-blue-400">フルスタック開発者 | 基準化 | 労働安全衛生 | 通訳者　</h4>
         <p className="text-lg font-semibold text-gray-300">{currentTime.toLocaleTimeString()}</p>
         <p className="text-gray-400">{day} {month} {year}</p>
       </div>
