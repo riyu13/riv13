@@ -20,7 +20,7 @@ const Head = () => {
       <div className="text-center">
         <img className="mx-auto w-32 h-32 rounded-full" src={me} alt="Profile" />
         <h4 className="flex flex-row mt-2 text-xl font-bold text-align-center justify-center">Gilang Firza Rivanka</h4>
-        <h4 className="flex flex-row mt-2 text-xl text-blue-400">Fullstack Developer | Quality Assurance | Human Resource and General Affair | Sekretariat K3 | Japanese Teacher | Japanese Interpreter | Manufacture </h4>
+        <h4 className="flex flex-row mt-2 text-xl text-blue-400">Fullstack Developer | Quality Assurance | HSE | Japanese Interpreter </h4>
         <p className="text-lg font-semibold text-gray-300">{currentTime.toLocaleTimeString()}</p>
         <p className="text-gray-400">{day} {month} {year}</p>
       </div>
