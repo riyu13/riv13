@@ -81,7 +81,7 @@ const CardPortofolio2 = () => {
             </div>
           </div>
           <div className="card-actions justify-center">
-            <a href="https://github.com/riyu13/mitratani">
+            <a href="https://github.com/riyu13/mitra_tani_laravel">
               <button className="btn btn-ghost">
                 Fullstack <FaGithub />
               </button>
