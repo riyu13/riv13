@@ -8,7 +8,7 @@ const Skill = () => {
       skills: [
         { name: "ReactJS", value: 90 },
         { name: "NextJS", value: 70 },
-        { name: "CodeIgniter 3", value: 70 },
+        { name: "CodeIgniter 3", value: 90 },
         { name: "Laravel PHP", value: 60 },
         { name: "React Native", value: 50 },
         { name: "NodeJS", value: 60 },
