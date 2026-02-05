@@ -13,6 +13,7 @@ const Skill = () => {
         { name: "React Native", value: 50 },
         { name: "NodeJS", value: 60 },
         { name: "ExpressJS", value: 70 },
+        { name: "Django", value: 70 },
       ],
     },
     {
@@ -48,7 +49,8 @@ const Skill = () => {
         { name: "Keahlian Perakitan Lv 2 (Senmonkyou 2)", value: 80 },
         { name: "JLPT N3", value: 70 },
         { name: "TOEFL", value: 60 },
-        { name: "SIM A", value: 60 },
+        { name: "SIM A", value: 80 },
+        { name: "SIM Jepang AT", value: 80 },
         { name: "SIM C", value: 90 },
       ],
     },
