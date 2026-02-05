@@ -53,7 +53,7 @@ const experiences = [
   {
     company: "Aqua Co.",
     position: "Staf HR, Human Resource Department",
-    date: "April 2025 - Desember 2025",
+    date: "April 2025 - Oktober 2025",
     location: "Kitakyushu, Fukuoka - Jepang"
   },
   {
