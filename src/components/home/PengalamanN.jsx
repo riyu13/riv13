@@ -46,14 +46,14 @@ const PengalamanN = () => {
 const experiences = [
   {
     company: "Career Support Indonesia",
-    position: "日本語の教室",
+    position: "日本語の教室とITエンジニア",
     date: "2026年1月 - 現在",
     location: "ブリタル、東ジャワ - インドネシア"
   },
   {
     company: "アクア株式会社",
     position: "人事スタッフ、人事部",
-    date: "2025年4月 - 現在",
+    date: "2025年4月 - 2025年10月",
     location: "北九州、福岡 - 日本"
   },
   {
