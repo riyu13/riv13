@@ -27,6 +27,22 @@ const PendidikanN = () => {
         >
           <div className="absolute w-4 h-4 bg-indigo-400 rounded-full -left-[9px] top-1 group-hover:bg-indigo-100 transition-colors shadow-lg" />
           <h3 className="text-lg font-bold text-indigo-100 mb-1">
+            インドネシア公開大学
+          </h3>
+          <p className="text-indigo-300 mb-2 italic">情報システム専攻</p>
+          <p className="text-sm text-indigo-200/80 bg-indigo-900/30 px-3 py-1 rounded-full inline-block">
+            2025年8月 - 現在
+          </p>
+        </motion.div>
+        
+        <motion.div
+          initial={{ opacity: 0, x: -20 }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ duration: 0.5, delay: 0.1 }}
+          className="group relative pl-8 border-l-2 border-indigo-300/50 hover:border-indigo-100 transition-colors"
+        >
+          <div className="absolute w-4 h-4 bg-indigo-400 rounded-full -left-[9px] top-1 group-hover:bg-indigo-100 transition-colors shadow-lg" />
+          <h3 className="text-lg font-bold text-indigo-100 mb-1">
             Electronic Engineering Polytechnic Institute of Surabaya
           </h3>
           <p className="text-indigo-300 mb-2 italic">情報工学部卒業証書</p>
