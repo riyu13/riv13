@@ -54,7 +54,6 @@ const KontakN = () => {
             className="hover:text-green-400 transition-colors"
           >
             Whatsapp : (+62) 851-5669-8423 (Id)
-            電話番号　： (+81) 70-9231-6232 (Jp)
           </a>
         </div>
 
@@ -80,7 +79,6 @@ const KontakN = () => {
             />
           </svg>
           ホーム　：　インドネシア、東ジャワ、ブリタル <br/>
-          現在住所　：　福岡県北九州市八幡西区
         </div>
       </div>
     </div>
