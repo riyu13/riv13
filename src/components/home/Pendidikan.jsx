@@ -27,9 +27,25 @@ const Pendidikan = () => {
         >
           <div className="absolute w-4 h-4 bg-indigo-400 rounded-full -left-[9px] top-1 group-hover:bg-indigo-100 transition-colors shadow-lg" />
           <h3 className="text-lg font-bold text-indigo-100 mb-1">
+            Universitas Terbuka
+          </h3>
+          <p className="text-indigo-300 mb-2 italic">Sarjana Terapan - Sistem Informasi</p>
+          <p className="text-sm text-indigo-200/80 bg-indigo-900/30 px-3 py-1 rounded-full inline-block">
+            Agustus 2025 - Sekarang
+          </p>
+        </motion.div>
+        
+        <motion.div
+          initial={{ opacity: 0, x: -20 }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ duration: 0.5, delay: 0.1 }}
+          className="group relative pl-8 border-l-2 border-indigo-300/50 hover:border-indigo-100 transition-colors"
+        >
+          <div className="absolute w-4 h-4 bg-indigo-400 rounded-full -left-[9px] top-1 group-hover:bg-indigo-100 transition-colors shadow-lg" />
+          <h3 className="text-lg font-bold text-indigo-100 mb-1">
             Politeknik Elektronika Negeri Surabaya
           </h3>
-          <p className="text-indigo-300 mb-2 italic">Diploma III di Fakultas Teknik Informatika</p>
+          <p className="text-indigo-300 mb-2 italic">Diploma III - Teknik Informatika</p>
           <p className="text-sm text-indigo-200/80 bg-indigo-900/30 px-3 py-1 rounded-full inline-block">
             Agustus 2021 - Juli 2023
           </p>
@@ -45,9 +61,9 @@ const Pendidikan = () => {
           <h3 className="text-lg font-bold text-indigo-100 mb-1">
             IM Japan
           </h3>
-          <p className="text-indigo-300 mb-2 italic">Pelatihan Bahasa dan Budaya Jepang</p>
+          <p className="text-indigo-300 mb-2 italic">Pelatihan Bahasa dan Program Magang ke Jepang</p>
           <p className="text-sm text-indigo-200/80 bg-indigo-900/30 px-3 py-1 rounded-full inline-block">
-            Juni 2017 - Oktober 2017 
+            Juni 2017 - Oktober 2017
           </p>
         </motion.div>
         <motion.div
@@ -60,7 +76,7 @@ const Pendidikan = () => {
           <h3 className="text-lg font-bold text-indigo-100 mb-1">
             LPK Yukimaga Surakarta
           </h3>
-          <p className="text-indigo-300 mb-2 italic">Kursus Bahasa Jepang</p>
+          <p className="text-indigo-300 mb-2 italic">Pelatihan Bahasa Jepang</p>
           <p className="text-sm text-indigo-200/80 bg-indigo-900/30 px-3 py-1 rounded-full inline-block">
             Desember 2016 - Mei 2017 
           </p>
@@ -76,7 +92,7 @@ const Pendidikan = () => {
           <h3 className="text-lg font-bold text-indigo-100 mb-1">
             Akademi Komunitas Negeri Putra Sang Fajar
           </h3>
-          <p className="text-indigo-300 mb-2 italic">Diploma II di Fakultas Teknologi Informasi</p>
+          <p className="text-indigo-300 mb-2 italic">Diploma II - Teknologi Informasi (ADMINISTRASI SERVER DAN JARINGAN KOMPUTER) </p>
           <p className="text-sm text-indigo-200/80 bg-indigo-900/30 px-3 py-1 rounded-full inline-block">
             Juni 2014 - Juni 2016
           </p>
@@ -92,7 +108,7 @@ const Pendidikan = () => {
           <h3 className="text-lg font-bold text-indigo-100 mb-1">
             SMK N 1 Negara
           </h3>
-          <p className="text-indigo-300 mb-2 italic">Jurusan Akuntansi</p>
+          <p className="text-indigo-300 mb-2 italic">Akuntansi</p>
           <p className="text-sm text-indigo-200/80 bg-indigo-900/30 px-3 py-1 rounded-full inline-block">
             Juni 2011 - Juni 2014
           </p>
