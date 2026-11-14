@@ -54,7 +54,6 @@ const Kontak = () => {
             className="hover:text-green-400 transition-colors"
           >
             WA : (+62) 851-5669-8423 (id)
-            Telp : (+81) 70-9231-6323 (Jp)
           </a>
         </div>
 
@@ -80,7 +79,6 @@ const Kontak = () => {
             />
           </svg>
           From : Blitar, Jawa Timur <br/>
-          Live : Kitakyushu, Fukuoka
         </div>
       </div>
     </div>
